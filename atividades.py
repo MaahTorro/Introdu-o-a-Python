@@ -8,3 +8,9 @@ else:
     print(f"{nome}, você paga inteira.")
 
 
+-------------------------------------------------------
+
+A = 1
+while A < 10:
+    print(A)
+    A = A + 1
