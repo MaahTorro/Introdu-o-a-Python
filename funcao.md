@@ -1,3 +1,4 @@
+```
 len
 int
 float
@@ -6,9 +7,9 @@ print
 input
 
 define funcao com:
-def nome(1, 2, 3)
-    codigo
-    return
+    def nome(1, 2, 3)
+        codigo
+        return
 ----------------------------
 n = 5
 i = 1
