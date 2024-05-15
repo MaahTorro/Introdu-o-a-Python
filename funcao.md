@@ -87,6 +87,16 @@ imprime_tela(10)
 
 =======================================================================
 
+def eq_segundo_grau(a, b, c):
+
+    delta = b**2 - 4*a*c
+    x1 = (-b + delta**(1/2))/(2*a)
+    x2 = (-b - delta**(1/2))/(2*a)
+    return x1, x2
+
+print(eq_segundo_grau(1, -6, 8))
+
+```
 
 def mult(a, b):
     c = a - b
