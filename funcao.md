@@ -85,6 +85,16 @@ def imprime_tela(n):
 
 imprime_tela(10)
 
+
+
+=======================================================================
+
+def mult(a, b):
+    c = a - b
+    return c
+
+print(mult(3, 1))
+
 =======================================================================
 
 def eq_segundo_grau(a, b, c):
@@ -96,11 +106,7 @@ def eq_segundo_grau(a, b, c):
 
 print(eq_segundo_grau(1, -6, 8))
 
+
+
+
 ```
-
-def mult(a, b):
-    c = a - b
-    return c
-
-print(mult(3, 1))
-
